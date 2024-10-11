@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=oJkNtPk0DPw&list=LL
+https://www.figma.com/design/kqz8HwYO4FW1C1GmuUuNey/BioTik?node-id=302-7375&node-type=frame&t=AEFq1HAM67fCHYzv-0
+https://www.figma.com/proto/kqz8HwYO4FW1C1GmuUuNey/BioTik?node-id=278-2077&starting-point-node-id=278%3A2077&scaling=scale-down-width&content-scaling=fixed&hide-ui=1
+https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb
